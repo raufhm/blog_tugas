@@ -26,8 +26,8 @@ Things you may want to cover:
 * Clone the Repository
 * rake db:create
 * rake db:migrate
-* run rails server at localhost:3000 on your browser
+* run rails server at localhost:3000/posts on your browser
 
 # Author
-Abdulrauf // abdulraufmustakim@gmail.com
+Abdul rauf // abdulraufmustakim@gmail.com
 
