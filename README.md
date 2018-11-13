@@ -21,4 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*
+# How To Use
+* Clone the Repository
+* rake db:create
+* rake db:migrate
+* run rails server at localhost:3000 on your browser
+
+# Author
+Abdulrauf // abdulraufmustakim@gmail.com
+
